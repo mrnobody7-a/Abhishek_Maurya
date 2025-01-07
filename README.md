@@ -1,13 +1,13 @@
 # Abhishek_Maurya
   
 
-### <div align="center">Aspiring Cybersecurity Expert Dedicated to Protecting Digital Worlds and Privacy</div>  
+### <div align="center">Aspiring Cybersecurity Expert Enthusiast to Protecting Digital Worlds and Privacy</div>  
   
 
-- 🔭 I’m currently studying in Jain University.  
+- 🔭 I’m currently studying at Jain University.  
   
 
-- 🌱 I’m currently learning about red teaming and forensic.   
+- 🌱 I’m currently learning about red teaming and forensics.   
   
 
 - ❓ Ask me about anything related to cybersecurity  
