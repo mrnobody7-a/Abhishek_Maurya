@@ -1,7 +1,7 @@
 # Abhishek_Maurya
   
 
-### <div align="center">Aspiring Cybersecurity Expert Enthusiast to Protecting Digital Worlds and Privacy</div>  
+### <div align="center">Aspiring Cybersecurity Enthusiast Dedicated to Protecting Digital Worlds and Privacy</div>  
   
 
 - 🔭 I’m currently studying at Jain University.  
